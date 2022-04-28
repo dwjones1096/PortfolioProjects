@@ -1,5 +1,5 @@
 /*
-Project: Data exploration using current COVID-19 data.
+Project: Data exploration using current COVID-19 data from https://ourworldindata.org/covid-deaths.
 
 Purpose: Displaying handle of SQL language, ability to write structured queries,
 and grasp of skills such as: joins, CTE's, data type conversion, windows and aggregate functions,
@@ -155,7 +155,7 @@ WHERE death.continent IS NOT NULL
 SELECT *, (PeopleVaccinated/population)*100 AS PercentVaccinated
 FROM #PercentPopulationVaccinated
 
--- Creation of Views for visualizations
+-- Creation of Views for visualizations in Tableau
 
 -- People vaccinated by country
 
