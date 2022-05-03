@@ -1,9 +1,11 @@
 /*
-Project: Data exploration using current COVID-19 data from https://ourworldindata.org/covid-deaths.
+Project: Data exploration using current COVID-19 data from: https://ourworldindata.org/covid-deaths.
 
 Purpose: Displaying handle of SQL language, ability to write structured queries,
 and grasp of skills such as: joins, CTE's, data type conversion, aggregate functions,
 and creation of views and temp tables.
+
+Data has been used to create a dashboard with tableau here: https://public.tableau.com/app/profile/daniel.jones7292/viz/BeginnerTableauProject1/Dashboard1?publish=yes
 */
 
 -- Selecting relevent data to start with
